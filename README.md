@@ -2,9 +2,7 @@
 
 A new Flutter project.
 
-<img src="" alt="" width="" height="">
 
-fluttertest/images/four.png
 
 ## Getting Started
 
